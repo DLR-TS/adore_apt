@@ -1,0 +1,15 @@
+Package: ros-jazzy-hello-world
+Version: 0.0.0-0noble
+Architecture: amd64
+Maintainer: rosuser <rosuser@todo.todo>
+Installed-Size: 66
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-rclcpp, ros-jazzy-std-msgs
+Filename: pool/main/packages/ros-jazzy-hello-world_0.0.0-0noble_amd64.deb
+Size: 10842
+MD5sum: 61bcb04deec07f92f40d1b0cc2fd33b7
+SHA1: b08394f12d8fb2e47937e33dc3de9e38a34d19ad
+SHA256: 08ec1a9c1e24843d227a883ad8f5de27ddedc74f37fef3cef5d07a46d0a67773
+Section: misc
+Priority: optional
+Description: TODO: Package description
+
